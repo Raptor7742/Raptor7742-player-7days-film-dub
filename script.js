@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "7 jours - Bokura no nanokakan sensou - VOSTFR",
+      title: "7 jours - Bokura no nanokakan sensou - VF",
       description: "Vous regardez",
       image: "https://cdn.statically.io/gh/Anime-Sama/IMG/img/animes/animes%20wallpapers/7-jourscarousel.jpg",
       sources: [
@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m108.syncusercontent.com/mfs-60:75db806aedab94373e90584ab35f368e=============================/p/7%20jours%20dub.mp4?allowdd=0&datakey=IIpoMC71UAOh+wdxwYCiWZTQolvmG6ZXxi/VEEr63dNYND5Xigni/JzLvSnMkZE3zqY46dCahkzu61esaXM7Z1pq9gfARG5phHKOt7GZGkKK2dZDuZN2ZOBqYiNwZBrv3JSUFbGF4i9buUIkgjSN2UkYii4bW+/aQladREKLNIwe04d6sZ9NW0AYPvPHfxyDV9G2p98g+zA6xFpClLPyax1PjJ3Y9BLSWll24HrTH3CW+gkZbLc6xqEgwzT0Mf+97tt/6fC4vm30ksBGAyrrc3vbMpuX5RCVK7jsPBp1i8osrFN+kkFbmt+9V0AM3Z4yKNnW7rRG1YB8z+XtMXd8tQ&engine=ln-2.3.7.3&errurl=Z/a4+mTsCplQJdY91k6Qd9VDAd2eVDulXi6dJcfnre9eI2tBcTI8/scCxriWC7SMBuKqA4CufW5qq4mMgoEybxsxQUug5KpMcUdO8Pv+K9gnHTA0iFufTWTv6akeZrPHoKprx+z8SuM6mi3TKpNVqmwHayDFRPylfbz3xLYQS+2U0rVNIWvigC8Ou1Wu8EkZFidJ3kG66cKDL9Ko847+DzR9fQAkqfyk58o8di/O4ee3eiPDKXBYFMaIHTZBIaUP7qYfn1dazBWB2AQz1mAgxcS0w/xSqssY3pOAjO3a5mxcpkUYQU5KEi7oi4N78JRiiYvWVC51wOGZ/Kro9MVXow==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iNyUyMGpvdXJzJTIwZHViLm1wNCI7ZmlsZW5hbWUqPVVURi04Jyc3JTIwam91cnMlMjBkdWIubXA0Ow&ipaddress=1458994159&linkcachekey=c8f045600&linkoid=1983610011&mode=101&sharelink_id=9632517860011&timestamp=1672690034376&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=8b16325d406306daaa6591f620d8dd05fe4514c8&cachekey=60:75db806aedab94373e90584ab35f368e=============================",
           label: "720p"
         },
         {
