@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://rr2---sn-4g5lznls.c.drive.google.com/videoplayback?expire=1673388542&ei=vqm9Y9TSH4K-hwai7Y_wDA&ip=2a01:cb04:710:1c00:1530:38a5:e1b8:8b8d&cp=QVRMVURfV1VSQ1hPOmVHdVU0WUFuNFVyZ3MxOGVBMWNpZ1ZEMlFPZll4dWYwaDV4X29rcnlPWTY&id=5936f5f0439e086d&itag=37&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=14jUf_9DOHd4i6p59akUpbrAcbkeL3nHU&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6141.770&lmt=1673305611534216&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAKvtOrXhugJ2ZbLA7uV-8_aTA6JCZcAybCAnsGExKinvAiBsquYFBr48kNhdMgrobf7hbPC3sumyrjeJh9smltTO7w==&cpn=vuYD9UZZTfMmphdI&c=WEB_EMBEDDED_PLAYER&cver=1.20230108.00.00&redirect_counter=1&cm2rm=sn-25gkz7l&req_id=262d1d031302a3ee&cms_redirect=yes&cmsv=e&mh=9F&mm=34&mn=sn-4g5lznls&ms=ltu&mt=1673373908&mv=m&mvi=2&pl=39&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhANKbI2k9pBrgCzV1FcC6_8ubTyit0fMb_3WpSyhfe8YDAiEAwyRedtghqOcCbjRzMALKqiGhReZMEvJT8TIVKH2DU7c%3D",
+            "https://videos2-h.sendvid.com/hls/c0/fd/cqj7r45k.mp4/master.m3u8?validfrom=1673372114&validto=1673379314&rate=250k&ip=86.246.123.239&hdl=-1&hash=mCNfKrKm3N%2Fnh9%2BmffT2gVPzxPo%3D",
           label: "720p"
         },
         {
