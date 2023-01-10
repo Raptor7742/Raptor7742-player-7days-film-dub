@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://download1322.mediafire.com/8w5fvcbikvbg/bma6kf6p54pwa2j/4336911.mp4",
+            "https://download1979.mediafire.com/4w29yv5alyfg/61jz0ywgwmoeghg/Puss.in.Boots.The.Last.Wish.2022.TRUEFRENCH.1080p.AMZN.WEB-DL.DDP5.1.H264-CM+%281%29.mp4",
           label: "720p"
         },
         {
