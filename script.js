@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://videos2-h.sendvid.com/hls/c0/fd/cqj7r45k.mp4/master.m3u8?validfrom=1673372114&validto=1673379314&rate=250k&ip=86.246.123.239&hdl=-1&hash=mCNfKrKm3N%2Fnh9%2BmffT2gVPzxPo%3D",
+            "https://download1322.mediafire.com/8w5fvcbikvbg/bma6kf6p54pwa2j/4336911.mp4",
           label: "720p"
         },
         {
