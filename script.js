@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://download1979.mediafire.com/4w29yv5alyfg/61jz0ywgwmoeghg/Puss.in.Boots.The.Last.Wish.2022.TRUEFRENCH.1080p.AMZN.WEB-DL.DDP5.1.H264-CM+%281%29.mp4",
+            "https://m108.syncusercontent.com/mfs-60:75db806aedab94373e90584ab35f368e=============================/p/7%20jours%20dub.mp4?allowdd=0&datakey=p4+JVLJENoODiBOfs0DRSZBHVI9BPub8hHkGQNRsWKbskpPS8R6jNPRjVIOs/Vjyob+zAZET/aZDvHULerQfsSEot5qI/flPZQpVpNOp9xObGA2CwaxN8YpG5pFSfZdWWbSROeU2mbkfKfartLr8OxPj1nPEAjzw27Hdd8+FJBDgHRVJEXbOBW9XJT/GO0Xpv8Sa2XmJer9V4NyeBiibCs38GcXjXegAF+HEOzJ4hOXGWewDyX139A/C2EH/nXPWTXhGBMwBpkqHwUZoD7bevmfWGcR+M1OwpGT4CS1UXwJl92XRL6ug9OZF3uwdZYTrVL6WdMSD1RjbZTkufEbLug&engine=ln-2.3.8&errurl=AUDqLR9CiBay/y74G+hkoGB/xKxuimufRuyvKBTPWAxGb8rvi33rvPQQWrwiB3gyrU89VwYVK2sxysmIU8Ebn726qdBo0ZgdsqL6yoTLWAmrRRt8L6CbIwtGvJBhTahtJjIGH6qHMLD7yqyo1834vG1G3/v5RbuxGj9ktEeJHlyvyDFLraeDn/rvhZe/WoJ87Zus5bg6ZPZ4YNB072qGh6pvi8rJbr5GYMzWVl7qr1K2dROoXhTw5Ek02A+T0m6+8Z3m57GJcx1lu9QJUUU/PBzHhGx95IJDJ+7uYgaCJKVvJ17NRRBGI3KXIAJexoSP8m6TM/TE0bksEIlYK9eawg==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogYXR0YWNobWVudDsgZmlsZW5hbWU9IjclMjBqb3VycyUyMGR1Yi5tcDQiO2ZpbGVuYW1lKj1VVEYtOCcnNyUyMGpvdXJzJTIwZHViLm1wNDs&ipaddress=1458994159&linkcachekey=c8f045600&linkoid=1983610011&mode=101&sharelink_id=9632517860011&timestamp=1673433962634&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=2f7b677cbf0cbf69e768c601cff95acf20d6ee6a&cachekey=60:75db806aedab94373e90584ab35f368e=============================",
           label: "720p"
         },
         {
